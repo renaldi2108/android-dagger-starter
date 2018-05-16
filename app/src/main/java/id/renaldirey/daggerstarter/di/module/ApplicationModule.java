@@ -7,6 +7,7 @@ import dagger.Module;
 import dagger.Provides;
 import id.renaldirey.daggerstarter.di.ApplicationContext;
 import id.renaldirey.daggerstarter.holder.AppConstants;
+import id.renaldirey.daggerstarter.ui.model.Models;
 
 /**
  * Created by Kwikku on 12/05/2018.
